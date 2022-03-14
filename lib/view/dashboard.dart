@@ -10,7 +10,6 @@ import 'package:stacked/stacked.dart';
 
 class MultipleThemesView extends StatelessWidget {
   const MultipleThemesView({Key? key}) : super(key: key);
-  //testing
 
   @override
   Widget build(BuildContext context) {
