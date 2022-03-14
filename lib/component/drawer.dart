@@ -1,8 +1,6 @@
 import 'package:coursius_project/model/modeldrawer.dart';
 import 'package:flutter/material.dart';
 
-// import 'package:testingthemes/utils/color.dart';
-
 drawer() {
   return Drawer(
     child: ListView(
